@@ -17,4 +17,6 @@ I have also used Decision Tree regressor, which is a class in sckitlearn which i
 At last I have fine tuned the model using different classes such as cross validation score, random forest regressor, etc.
 I have also used GridSearchCV to find out the best hyperparameters suitable for increasing the accuracy of the model by testing the data with different combination of hyperparameters.
 
+## Special mention to Allen downey for the insight of the code and the extraordinary book Think stats 2.
+
  
